@@ -1,0 +1,6 @@
+streamlit
+pandas
+pyodbc
+numpy
+python-dateutil
+terminusdb-client
